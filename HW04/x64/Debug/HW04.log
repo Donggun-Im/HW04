@@ -1,0 +1,6 @@
+﻿  HW04.cpp
+C:\Users\abcd3\Desktop\Unreal Learn\Sparta\5.5\HW04\HW04\HW04.cpp(91,9): error C2065: 'book': 선언되지 않은 식별자입니다.
+C:\Users\abcd3\Desktop\Unreal Learn\Sparta\5.5\HW04\HW04\HW04.cpp(91,14): error C2146: 구문 오류: ';'이(가) 'result' 식별자 앞에 없습니다.
+C:\Users\abcd3\Desktop\Unreal Learn\Sparta\5.5\HW04\HW04\HW04.cpp(91,14): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\abcd3\Desktop\Unreal Learn\Sparta\5.5\HW04\HW04\HW04.cpp(102,17): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\abcd3\Desktop\Unreal Learn\Sparta\5.5\HW04\HW04\HW04.cpp(107,16): error C2065: 'result': 선언되지 않은 식별자입니다.
