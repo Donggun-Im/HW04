@@ -252,6 +252,7 @@
     <None Include="..\..\gitTestProject.uproject"/>
     <None Include="..\..\Source\gitTestProject.Target.cs"/>
     <None Include="..\..\Source\gitTestProjectEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
