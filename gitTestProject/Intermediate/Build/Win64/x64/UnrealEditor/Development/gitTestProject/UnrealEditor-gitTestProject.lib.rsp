@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-gitTestProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\abcd3\Desktop\Unreal Learn\소스트리 테스트\gitTestProject\Intermediate\Build\Win64\x64\gitTestProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\abcd3\Desktop\Unreal Learn\소스트리 테스트\gitTestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\gitTestProject\gitTestProject.cpp.obj"
+"C:\Users\abcd3\Desktop\Unreal Learn\소스트리 테스트\gitTestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\gitTestProject\PerModuleInline.gen.cpp.obj"
+"C:\Users\abcd3\Desktop\Unreal Learn\소스트리 테스트\gitTestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\gitTestProject\Default.rc2.res"
+/OUT:"C:\Users\abcd3\Desktop\Unreal Learn\소스트리 테스트\gitTestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\gitTestProject\UnrealEditor-gitTestProject.lib"

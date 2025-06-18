@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\abcd3\\Desktop\\Unreal Learn\\소스트리 테스트\\gitTestProject\\Source\\gitTestProject\\gitTestProject.Build.cs",
+		"C:\\Users\\abcd3\\Desktop\\Unreal Learn\\소스트리 테스트\\gitTestProject\\Source\\gitTestProject.Target.cs",
+		"C:\\Users\\abcd3\\Desktop\\Unreal Learn\\소스트리 테스트\\gitTestProject\\Source\\gitTestProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
